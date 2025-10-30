@@ -21,6 +21,9 @@
 - 각 명령어 구현 조건 일부 변경 (제안서 변경)
 - Skeleton Code 오류 일부 수정
 - command.txt, employee.txt 예시 파일 추가
+
+2025.10.30 (Version 4)
+- B+ Tree Delete 관련 내용 삭제 (제안서 오류 수정, 기존 구현 조건 변경 사항은 없음)
 ---
 
 ## How to Clone Repository  
