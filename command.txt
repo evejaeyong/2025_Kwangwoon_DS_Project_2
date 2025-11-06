@@ -3,14 +3,14 @@ ADD_BP	luis	100	230079	5000
 ADD_BP	alex	200	210038	5900
 ADD_BP	ryan	300	220094	8200
 ADD_BP	steven	400	170027	9700
-SEARCH_BP   alex
-SEARCH_BP   c   g
+SEARCH_BP	alex
+SEARCH_BP	c	g
 PRINT_BP
-ADD_ST  dept_no 100
-ADD_ST  name    steven
-ADD_ST  name    ryan
-ADD_ST  name    alex
-PRINT_ST    100
+ADD_ST	dept_no	100
+ADD_ST	name	steven
+ADD_ST	name	ryan
+ADD_ST	name	alex
+PRINT_ST	100
 DELETE
-PRINT_ST    100
+PRINT_ST	100
 EXIT

@@ -24,6 +24,9 @@
 
 2025.10.30 (Version 4)
 - B+ Tree Delete 관련 내용 삭제 (제안서 오류 수정, 기존 구현 조건 변경 사항은 없음)
+
+2025.11.06 (Version 5)
+- PRINT_ST 구현 조건 오류 수정 (기존 PRINT_ST 명령어 실행 시 이름 오름차순 출력을 연봉 내림차순 출력으로 수정)
 ---
 
 ## How to Clone Repository  
